@@ -19,7 +19,14 @@ Purpose of activity was to evaluate and identify trends associated with services
 
 <p>Trends of interest identified:</p>
 
-Overall Station View <br>
+Overall Statistics <br>
+
+The total number of providers (discrete charging locations) is 10,436.  This number includes Clinical Laboratories that provide a wide range of services and specialty doctor's offices.<br>
+<br>
+The number of individuals that recieved different types of care was 14,390,509. An individual would get counted each time they received a different typr of care such as vaccine, eye exam, etc.  As noted below in the snip, a person (distinct Medicare Beneficiary) receiving multiple cardiac stints in a day would be counted as 1 to remove double-counting. <br>
+<br>
+The total Medicare Part B payments to Houston area providers in 2018 was $750,066,174.<br>
+<br>
 <img src="images/intro.PNG" width = "675"><br>
 <br>
 <br>
