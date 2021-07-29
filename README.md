@@ -51,7 +51,7 @@ Overall Station View <br>
 <br>
 <br>
 <br>
-<img src="images/7_chargecodes.PNG" width = "675"><br>
+<img src="images/7_chargecodes1.PNG" width = "675"><br>
 <br>
 <br>
 <br>
