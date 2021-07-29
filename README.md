@@ -17,6 +17,8 @@ Purpose of activity was to evaluate and identify trends associated with services
 
 <p>Link to Tableau: https://public.tableau.com/app/profile/troy.youngblood/viz/medicare_Houston_CY2018/Story1?publish=yes</p>
 
-<p>Trends of interest identified were:</p>
+<p>Trends of interest identified:</p>
 
-
+Overall Station View <br>
+<img src="Images/page_1.PNG" width = "450"><br>
+<br>
