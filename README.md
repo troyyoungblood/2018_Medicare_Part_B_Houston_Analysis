@@ -14,5 +14,9 @@ Purpose of activity was to evaluate and identify trends associated with services
 <p>The original dataset was downloaded as a csv file and it contained information from all locations providing Medicare Part B services in 2018.  The file size was approximately 2.2 GB and was to large to be effectively manage using a spreadsheet.  Python in Jupyter Notebook was used to amend column titles and create a subset of data containing only records of services provided in Houston, Texas.  The Houston only dataframe was exported to a csv file which could then be used to create charts for analysis in Tableau.</p>
 
 <u>Data Review</u>
+
+<p>Link to Tableau: https://public.tableau.com/app/profile/troy.youngblood/viz/medicare_Houston_CY2018/Story1?publish=yes</p>
+
 <p>Trends of interest identified were:</p>
+
 
