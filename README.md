@@ -24,10 +24,6 @@ Overall Station View <br>
 <br>
 <br>
 <br>
-<img src="images/intro.PNG" width = "450"><br>
-<br>
-<br>
-<br>
 <br>
 <img src="images/2_provider1.PNG" width = "450"><br>
 <br>
