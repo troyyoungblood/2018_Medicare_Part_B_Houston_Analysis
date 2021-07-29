@@ -20,35 +20,41 @@ Purpose of activity was to evaluate and identify trends associated with services
 <p>Trends of interest identified:</p>
 
 Overall Station View <br>
-<img src="images/intro.PNG" width = "450"><br>
+<img src="images/intro.PNG" width = "675"><br>
 <br>
 <br>
 <br>
 <br>
-<img src="images/2_provider1.PNG" width = "450"><br>
+<img src="images/2_provider1.PNG" width = "675"><br>
 <br>
 <br>
 <br>
 <br>
-<img src="images/3_provider2.PNG" width = "450"><br>
+<img src="images/3_provider2.PNG" width = "675"><br>
 <br>
 <br>
 <br>
 <br>
-<img src="images/4_noclprovider.PNG" width = "450"><br>
+<img src="images/4_noclprovider.PNG" width = "675"><br>
 <br>
 <br>
 <br>
 <br>
-<img src="images/5_providerpayment.PNG" width = "450"><br>
+<img src="images/5_providerpayment.PNG" width = "675"><br>
 <br>
 <br>
 <br>
 <br>
-<img src="images/7_chargecodes.PNG" width = "450"><br>
+<br>
+<img src="images/6_deltacharge.PNG" width = "675"><br>
 <br>
 <br>
 <br>
 <br>
-<img src="images/8_drugsissued.PNG" width = "450"><br>
+<img src="images/7_chargecodes.PNG" width = "675"><br>
+<br>
+<br>
+<br>
+<br>
+<img src="images/8_drugsissued.PNG" width = "675"><br>
 <br>
