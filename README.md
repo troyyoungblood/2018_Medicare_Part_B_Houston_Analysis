@@ -25,9 +25,7 @@ The number of individuals that recieved different types of care was 14,390,509. 
 <br>
 The total Medicare Part B payments to Houston area providers in 2018 was $750,066,174.<br>
 <br>
-<br>
 <p>Data Highlights (values are rounded for reporting ease)</p>
-<br>
 <br>
 <p>The Top 5 Medical Provider Types by number of providers are:</p>
 <p>Nurse Practitioners with 959 providers identified in the data set supporting 332,000 patients.  Note - Nurse Practitioners were not broken out by specialty in the raw data set.  They were included becuase of the total number responsible for providing care and the total number of patients supported.</p>
@@ -77,39 +75,32 @@ The total Medicare Part B payments to Houston area providers in 2018 was $750,06
 <br>
 <img src="images/intro.PNG" width = "675"><br>
 <br>
-<br>
-<br>
+<p>Data presenting top providers by general category. The bar height is the number of providers and the circle at the top is the number of patients supported by the provider.  The color of the circle represents the range of patients supported.  The higher the number of patients supported, the color changes from blue, to purple, and finally to red</p>
 <br>
 <img src="images/2_provider1.PNG" width = "675"><br>
 <br>
-<br>
-<br>
+<p>Data presenting top providers by business.  The bar height and circle at the top provide graphical and numerical values of the number of patients supported.  The color of the bar correlates to the general category of provider. The color of the circle represents the range of patients supported.  The higher the number of patients supported, the color changes from green, to dark green purple, and finally to blue.</p></p>
 <br>
 <img src="images/3_provider2.PNG" width = "675"><br>
 <br>
-<br>
-<br>
+<p>Data presenting top providers by business, excluding clinical laboratories.  The bar height and circle at the top provide graphical and numerical values of the number of patients supported.  The color of the bar correlates to the general category of provider.</p>
 <br>
 <img src="images/4_noclprovider.PNG" width = "675"><br>
 <br>
-<br>
-<br>
+<p>Data presenting top number of providers by category (outer bar).  The light blue inner bar represents the total payments made to the provider cateogry in 2018.</p>
 <br>
 <img src="images/5_providerpayment.PNG" width = "675"><br>
 <br>
 <br>
-<br>
-<br>
+<p>Data presenting the provider category that has the greatest delta between charges and payments received.  The length of the bar represents the sum of the deltas of all the charges and the value in the circle represents the average delta.</p>
 <br>
 <img src="images/6_deltacharge.PNG" width = "675"><br>
 <br>
-<br>
-<br>
+<p>Data presenting the Medicare Part B code with the highest count of charge references. The color of the bar represents the type of service conducted by the code.</p>
 <br>
 <img src="images/7_chargecodes1.PNG" width = "675"><br>
 <br>
-<br>
-<br>
+<p>Data presenting the top 15 drugs issued under Medicare Part B in Houston for the calendar year 2018.  The number at the top of the circle represents the number of providers issuing the drug.  The color of the circle at the top of the bar is a color presentation of the average number of units issues.  The darker the blue, the higher the average number of units issued.  The color of the bar correlates to the cateogry of provider issuing the drug.</p>
 <br>
 <img src="images/8_drugsissued1.PNG" width = "675"><br>
 <br>
