@@ -15,7 +15,7 @@ Purpose of activity was to evaluate and identify trends associated with services
 
 <u>Data Review</u>
 
-<p>Link to Tableau: https://public.tableau.com/app/profile/troy.youngblood/viz/medicare_Houston_CY2018/Story1?publish=yes</p>
+<p>Link to Tableau: https://public.tableau.com/views/medicare_Houston_CY2018/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link</p>
 
 Overall Statistics <br>
 
