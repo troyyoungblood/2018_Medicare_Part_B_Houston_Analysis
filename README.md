@@ -71,7 +71,7 @@ The total Medicare Part B payments to Houston area providers in 2018 was $750,06
 <p>Link to Tableau with additonal charts and data: https://public.tableau.com/app/profile/troy.youngblood/viz/medicare_Houston_CY2018/Story1?publish=yes</p>
 <br>
 <br>
-<p>Snips of Data</p>
+<p>Snips of Data Review</p>
 <br>
 <img src="images/intro.PNG" width = "675"><br>
 <br>
